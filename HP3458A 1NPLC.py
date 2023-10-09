@@ -25,7 +25,7 @@ def setup_dmm(addr):
     inst.write("OFORMAT DINT")          # SINT, ASCII
     inst.write("DEFEAT ON")
     inst.write("LOCK ON")               # Local lock
-    inst.write("DCV 11")
+    inst.write("DCV 10")
     inst.write("NPLC 1")
     #inst.write("APER 1.4E-6")
     inst.write("AZERO 0")
