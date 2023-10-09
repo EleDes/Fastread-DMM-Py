@@ -13,7 +13,6 @@ median: 2.584ms
 stdev: 0.109ms
 
 min: 2.210ms
-
 max: 7.976ms
 
 
