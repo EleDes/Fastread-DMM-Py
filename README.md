@@ -5,6 +5,7 @@ Results with an Agilent 82357B GPIB adapter on a RasPi 3B:
 
 Throughput:
 mean: 2.577ms
+
 median: 2.584ms
 stdev: 0.109ms
 min: 2.210ms
